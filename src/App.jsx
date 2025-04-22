@@ -54,7 +54,7 @@ const App = () => {
   return (
     <div className="app-container">
       <div className="header-container">
-        <h1>TaskTrackr - To-Do List App</h1>
+        <h1>TaskTracker - To-Do List App</h1>
       </div>
 
       <div className="tasks-container">
